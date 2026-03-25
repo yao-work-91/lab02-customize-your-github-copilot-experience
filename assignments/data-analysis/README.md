@@ -6,7 +6,7 @@ Students will learn the basics of data analysis using Python. They will load, ex
 
 ## 📝 Tasks
 
-### 🛠️ Data Loading and Exploration
+### 🛠️	Data Loading and Exploration
 
 #### Description
 Load a provided CSV dataset and perform basic exploration to understand its structure and contents.
@@ -19,7 +19,7 @@ Completed program should:
 - Show summary statistics (mean, median, etc.) for numeric columns
 
 
-### 🛠️ Data Visualization and Insights
+### 🛠️	Data Visualization and Insights
 
 #### Description
 Create visualizations to help understand the data and summarize key findings.
